@@ -11,7 +11,7 @@
   shuttlePath: /Maps/_Mono/Shuttles/Cerberus.yml
   guidebookPage: Null
   class:
-  - Security
+  - Patrol
   engine:
   - Bananium
 
