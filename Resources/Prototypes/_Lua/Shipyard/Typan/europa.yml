@@ -8,7 +8,7 @@
   limit: 1
   category: Large
   group: BlackMarket
-  shuttlePath: /Maps/_Mono/Shuttles/BlackMarket/europa.yml
+  shuttlePath: /Maps/_Lua/Shuttles/Typan/europa.yml
   guidebookPage: Null
   class:
   - Syndicate
