@@ -9,8 +9,8 @@
   name: Feledor
   description: Ранее - грозный пиратский корабль. Ныне - лишь тень былой мощи, чьи чертежи утекли в массы.
   limit: 1
-  price: 530000
-  mass: 781.5
+  price: 400000
+  mass: 1781.5
   category: Large
   group: BlackMarket
   class:
